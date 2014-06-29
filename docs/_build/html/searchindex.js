@@ -1,0 +1,1 @@
+Search.setIndex({envversion:42,terms:{index:0,search:0,modul:0,content:[],"conte\u00fado":0,page:0},objtypes:{},objnames:{},filenames:["index"],titles:["Documeenta\u00e7\u00e3o do MiniPCP"],objects:{},titleterms:{tabela:0,welcom:[],minipcp:0,indic:[],"documeenta\u00e7\u00e3o":0,tabl:[],document:[],"\u00edndice":0}})
